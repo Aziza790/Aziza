@@ -1,7 +1,7 @@
 # Aziza
  mening birinchi sahifam 
-##type
+## type
 **matn yozish**
-_dasturlash
-**fayl*
-1.1.type
+-dasturlash
+**fayl**
+1. type
